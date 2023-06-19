@@ -1,0 +1,1 @@
+This code preprocesses image files and generates a Self-Organizing Map (SOM) using sklearn. Visualizes SOM nodes for pattern representation.
